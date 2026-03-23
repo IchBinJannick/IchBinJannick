@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jannick</h1>
 <h3 align="center">A big-picture thinker & developer</h3>
 
-- 🔭 I’m currently working on **Cardgame-Statistics Discord Bot**
+- 🔭 I’m currently working on **Library Manager**
 
 - 🌱 I’m currently learning **C#, C++**
 
